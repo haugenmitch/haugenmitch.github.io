@@ -1,3 +1,8 @@
+# Bundler generated folders
+vendor/
+.bundle/
+
+# Jekyll generated
 _site/
 .sass-cache/
 .jekyll-cache/
