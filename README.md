@@ -6,6 +6,6 @@
 
 2. `git clone https://github.com/haugenmitch/haugenmitch.github.io.git`
 
-3. `cd haugenmitch.github.io`
+3. `cd haugenmitch.github.io/`
 
 4. `bundle exec jekyll serve`
