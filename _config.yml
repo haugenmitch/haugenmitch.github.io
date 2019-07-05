@@ -1,0 +1,11 @@
+# Site Settings
+title: Mitchell Haugen
+description: >-
+  A site to document and share some of the personal projects of Mitchell
+  Haugen, programming and otherwise.
+baseurl: ""
+url: "https://www.mitchellhaugen.com"
+github_username: haugenmitch
+
+# Build Settings
+markdown: kramdown
